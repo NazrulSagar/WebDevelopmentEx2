@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html "lang=en">
+<head>
+	<meta charset="utf-8"
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Exercise Part 2 </title>
+</head>
+<body> 
+</body>
+</html>
+
+<a href="#" target="_blank"> </a>
+
+<a href="mailto:webmaster@example.com">Jon Doe</a>
+
+<img src="workplace.jpg" alt="Workplace">
+
+<article> 
+<p> ............. </p>
+</article>
+
+<h1> The audio element </h1>
+<p> Click here. </p>
+<audio controls>
+  <source src="......." type="........">
+  <source src="........." type="..........">
+</audio>

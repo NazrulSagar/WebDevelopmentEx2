@@ -1,0 +1,33 @@
+h1{
+	color:red;
+	font-size: 50px;
+	font-family: arial;
+	background: yellow;
+}
+
+h2{
+	color: greenyellow;
+	font-family: arial;
+	font-size: 30px;
+}
+
+body{
+	background: gray;
+	margin:10px 30px;
+	padding: 10px 50px;
+
+}
+
+p{
+	color:white;
+	font-size: 15px;
+	font-family: arial;
+	font-style: italic;
+}
+
+a{
+	color:yellow;
+	font-size: 20px;
+	font-family: arial;
+	
+}
